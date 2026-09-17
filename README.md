@@ -1,11 +1,5 @@
 # Arrêt Auto — Mises à jour
 
-Ce dépôt public sert uniquement de **canal de distribution** pour l'application **Arrêt Auto**.
-
-Il ne contient **aucun code source**. Celui-ci est développé dans un dépôt privé séparé.
-
----
-
 ## 🧠 Description
 
 **Arrêt Auto** est un utilitaire simple et moderne permettant de programmer l’arrêt automatique de votre PC sous Windows, avec une interface sombre et un compte à rebours bien visible.
