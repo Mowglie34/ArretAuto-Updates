@@ -16,8 +16,8 @@ Un mini-compteur flottant (optionnel) et une icône dans la zone de notification
 ## 🛠️ Utilisation
 
 1. Lancez **Arrêt Auto**
-2. Entrez une durée en minutes, ou cliquez sur les boutons rapides (`30 min` / `1 h` / `1 h 30` / `2 h`) — les valeurs s’additionnent  
-   (`↺ 0` remet le champ à zéro)
+2. Entrez une durée au format `heures:minutes:secondes` (les `:` sont fixes), ou cliquez sur les boutons rapides (`5 min` / `10 min` / `30 min` / `1 h` / `1 h 30` / `2 h`) — les valeurs s’additionnent  
+   (`↺` remet le champ à `00:00:00`)
 3. Cliquez sur **✅ Programmer l’arrêt** (ou appuyez sur Entrée)
 4. Un compte à rebours et une barre de progression s’affichent  
    → À 5 minutes de l’extinction, le statut passe en orange
@@ -36,7 +36,7 @@ Un mini-compteur flottant (optionnel) et une icône dans la zone de notification
 - Activable/désactivable depuis la fenêtre principale (réglage mémorisé)
 - Reste visible même si la fenêtre principale est fermée
 - Déplaçable librement
-- Actions disponibles : +5 min, Annuler, Réafficher la fenêtre, Masquer
+- Actions disponibles : +5 / +15 / +30 min, Annuler, Réafficher la fenêtre, Masquer
 
 ---
 
